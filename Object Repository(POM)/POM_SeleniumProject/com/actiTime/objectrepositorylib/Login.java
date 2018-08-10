@@ -30,7 +30,7 @@ public class Login
 	{
 		usernameEdit.sendKeys(username);
 		passwordEdit.sendKeys(password);
-		loginbutton.click();
+		//loginbutton.click();
 	}
 
 	
